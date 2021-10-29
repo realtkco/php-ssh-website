@@ -1,0 +1,36 @@
+input
+{
+  border: 2px solid #D3D3D3;
+  color: rgb(0, 0, 0);
+  padding: 10px 15px;
+  border-radius: 5px;
+  width: 550px;
+  height: 22px;
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+label{
+  font-family: Helvetica;
+  font-weight: bold;
+}
+button{
+  border: 0;
+  background-color: #4196d3;
+  color: #fff;
+  padding: 13px 10px;
+  border-radius: 5px;
+  width: 100px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 17px;
+}
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 5px;
+}
+codesent {
+  color: #f92672!important;
+}
